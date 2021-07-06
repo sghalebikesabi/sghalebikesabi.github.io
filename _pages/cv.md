@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistcal Machine Learning, University of Oxford, 2023 (expected)
-* M. Sc. in Statistics (Research), London School of Economics and Political Science, 2019
-* B. Sc. in Economics, Leibniz University Hannover, 2018
-* B. Sc. in Mathematics, Leibniz University Hannover, 2018
+* Ph.D in Statistical Machine Learning, University of Oxford, 2023 (expected)
+* M.Sc. in Statistics (Research), London School of Economics and Political Science, 2019
+* B.Sc. in Economics, Leibniz University Hannover, 2018
+* B.Sc. in Mathematics, Leibniz University Hannover, 2018
 
 Work experience
 ======
