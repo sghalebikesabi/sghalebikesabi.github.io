@@ -20,7 +20,7 @@ Education
 Selected Prizes
 ======
 * Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony (press coverage available [here](https://www.haz.de/Nachrichten/Der-Norden/Hannover-Niedersachsen-vergibt-Wissenschaftspreise-2018), [here](https://www.studieren-in-niedersachsen.de/news/wissenschaftspreis-niedersachsen-2018-verliehen.html), [here](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2018/MHH-Forscherin-erh%C3%A4lt-Wissen%C2%ADschaftspreis-Niedersachsen), and [here](https://idw-online.de/de/news706454))
-* Best Master Thesis of LSE Stats programmes (GBP 500)
+* Winton Prize (GBP 500): Best Master Thesis of LSE Stats programmes 
 * RSS prize (GBP 500): awarded to the 2nd best performing student in one of the LSE Stats programmes
 * Best BSc Economics student (non-monetary prize): awarded to the best performing student in the Economics programme of the University of Hannover
 
@@ -59,7 +59,7 @@ Work experience
 
 Skills
 ======
-* Python and I guess more or less all important packages
+* Python and hopefully all important packages
 * R
 * Microsoft Office
 * Linux (Ubuntu)
