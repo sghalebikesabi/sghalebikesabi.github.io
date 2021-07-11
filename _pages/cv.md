@@ -16,6 +16,14 @@ Education
 * B.Sc. in Economics, Leibniz University Hannover, 2018
 * B.Sc. in Mathematics, Leibniz University Hannover, 2018
 
+Selected Prizes
+======
+* Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony
+* Best Master Thesis of LSE Stats programmes (GBP 500)
+* RSS prize (GBP 500): awarded to the 2nd best performing student in one of the LSE Stats programmes
+* Best BSc Economics student (non-monetary prize): awarded to the best performing student in the Economics programme of the University of Hannover
+
+
 Work experience
 ======
 * Summer 2021: PhD Research Intern at Microsoft Research Cambridge, Cambridge
@@ -74,7 +82,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service to the community
+Service to the Community
 ======
 * Reviewer at Neurips ML4H 2020, AISTATS 2021
 * Discussant at UAI 2021
+* Co-Founder of EquiStats - an equity and diversity group for middle and senior members of the Department of Statistics, Oxford
