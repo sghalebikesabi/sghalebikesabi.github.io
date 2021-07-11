@@ -10,5 +10,5 @@ tags:
   - medium
 ---
 
-Without understanding the mathematical expressions of local explanation methods, their attributions can be counterintuitive. This blog post series provides an introduction to the most used local explanation methods and discusses their locality.
+Without understanding the mathematical expressions of local explanation methods, their attributions can be counterintuitive. This blog post series provides an introduction to the most used local explanation methods and discusses their locality. Please find the complete blog post [here](https://towardsdatascience.com/model-agnostic-local-explanation-models-from-a-statistical-viewpoint-i-bd04039c7040).
 
