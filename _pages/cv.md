@@ -15,10 +15,11 @@ Education
 * M.Sc. in Statistics (Research), London School of Economics and Political Science, 2019
 * B.Sc. in Economics, Leibniz University Hannover, 2018
 * B.Sc. in Mathematics, Leibniz University Hannover, 2018
+* A levels with best mark with only 16 years of age (find press releases [here](https://www.wp.de/staedte/wittgenstein/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html), [here](https://www.derwesten.de/staedte/nachrichten-aus-bad-berleburg-bad-laasphe-und-erndtebrueck/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html) and [here](https://www.siegener-zeitung.de/siegen/c-lokales/abi-mit-16-und-der-traumnote-10_a131614))
 
 Selected Prizes
 ======
-* Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony
+* Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony (press coverage available [here](https://www.haz.de/Nachrichten/Der-Norden/Hannover-Niedersachsen-vergibt-Wissenschaftspreise-2018), [here](https://www.studieren-in-niedersachsen.de/news/wissenschaftspreis-niedersachsen-2018-verliehen.html), [here](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2018/MHH-Forscherin-erh%C3%A4lt-Wissen%C2%ADschaftspreis-Niedersachsen), and [here](https://idw-online.de/de/news706454))
 * Best Master Thesis of LSE Stats programmes (GBP 500)
 * RSS prize (GBP 500): awarded to the 2nd best performing student in one of the LSE Stats programmes
 * Best BSc Economics student (non-monetary prize): awarded to the best performing student in the Economics programme of the University of Hannover
