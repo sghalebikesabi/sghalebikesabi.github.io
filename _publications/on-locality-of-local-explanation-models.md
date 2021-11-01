@@ -13,4 +13,4 @@ Shapley values provide model agnostic feature attributions for model outcome at 
 
 [Download paper here](https://arxiv.org/pdf/2106.14648.pdf)
 
-Recommended citation: Ghalebikesabi, Sahra, Lucile Ter-Minassian, Karla Diaz-Ordaz, and Chris Holmes. "On Locality of Local Explanation Models." arXiv preprint arXiv:2106.14648 (2021).
+Recommended citation: Ghalebikesabi, Sahra, Lucile Ter-Minassian, Karla Diaz-Ordaz, and Chris Holmes. "On Locality of Local Explanation Models." 35th Conference on Neural Information Processing Systems (NeurIPS 2021).
