@@ -1,9 +1,9 @@
 ---
-title: "Local Model Explainability Tutorial"
+title: "Locality of Local Explanation Models"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Poster Talk"
 permalink: /talks/2021-06-24-nshap
-venue: "CHolmes Lab Reading Group"
+venue: "NeurIPS 2021"
 date: 2021-06-24
 location: "virtual"
 ---
