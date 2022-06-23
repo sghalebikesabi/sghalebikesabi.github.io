@@ -1,5 +1,5 @@
 ---
-title: "Deep Generative Missingness Pattern-Set Mixture Models for Nonignroable Missingness Imputation"
+title: "Deep Generative Missingness Pattern-Set Mixture Models for Nonignorable Missingness Imputation"
 collection: talks
 type: "Conference Poster Talk"
 permalink: /talks/missingness-aistats-2021
