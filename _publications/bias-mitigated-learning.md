@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/bias-mitigated-learning
 excerpt: 'Increasing interest in privacy-preserving machine learning has led to new models for synthetic private data generation from undisclosed real data. However, mechanisms of privacy preservation introduce artifacts in the resulting synthetic data that have a significant impact on downstream tasks such as learning predictive models or inference. In particular, bias can affect all analyses as the synthetic data distribution is an inconsistent estimate of the real-data distribution. We propose several bias mitigation strategies using privatized likelihood ratios that have general applicability to differentially private synthetic data generative models. Through large-scale empirical evaluation, we show that bias mitigation provides simple and effective privacy-compliant augmentation for general applications of synthetic data. However, the work highlights that even after bias correction significant challenges remain on the usefulness of synthetic private data generators for tasks such as prediction and inference.'
 date: 2021-08-24
-venue: 'arXiv'
+venue: 'Uncertainty in Artificial Intelligence 2022 (Oral)'
 paperurl: 'https://arxiv.org/pdf/2108.10934.pdf'
 citation: 'S. Ghalebikesabi, H. Wilde, J. Jewson, S. Vollmer, A. Doucet, C. Holmes (2021). &quot; Bias Mitigated Learning from Differentially Private Synthetic Data: A Cautionary Tale.&quot; <i>arXiv preprint arXiv:2108.10934.</i>.'
 ---
