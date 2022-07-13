@@ -19,7 +19,9 @@ redirect_from:
 
 ## Work experience
 
-* Summer 2021: PhD Research Intern at Microsoft Research Cambridge, Cambridge
+* Summer 2022: Research Intern at DeepMind, London
+
+* Summer 2021: Research Intern at Microsoft Research Cambridge, Cambridge
   * Working under the supervision of Javier González in the Health Intelligence Team on invariant risk minimisation for detecting relationships between TCR cells and diseases in corporation with Adaptive Biotechnologies
 
 * Summer 2019: Associate Consulting Intern in the Digital Finance Group at KPMG, Dusseldorf
@@ -49,11 +51,10 @@ redirect_from:
   * Assisted in scientific research in topics of financial time series analysis by writing reports/literature reviews or analysing data
   * Assisted in academic teaching: in particular managing the shift of the lectures from the German into the English language
 
-
 ## Selected Prizes
 
 * Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony (press coverage available [here](https://www.haz.de/Nachrichten/Der-Norden/Hannover-Niedersachsen-vergibt-Wissenschaftspreise-2018), [here](https://www.studieren-in-niedersachsen.de/news/wissenschaftspreis-niedersachsen-2018-verliehen.html), [here](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2018/MHH-Forscherin-erh%C3%A4lt-Wissen%C2%ADschaftspreis-Niedersachsen), and [here](https://idw-online.de/de/news706454))
-* Winton Prize (GBP 500): Best Master Thesis of LSE Stats programmes 
+* Winton Prize (GBP 500): Best Master Thesis of LSE Stats programmes
 * RSS prize (GBP 500): awarded to the 2nd best performing student in one of the LSE Stats programmes
 * Best BSc Economics student (non-monetary prize): awarded to the best performing student in the Economics programme of the University of Hannover
 
@@ -63,7 +64,7 @@ redirect_from:
 * R
 * Microsoft Office
 * Linux (Ubuntu)
-* Git 
+* Git
 
 ## Publications
 
@@ -85,6 +86,9 @@ Teaching
   
 ## Service to the Community
 
-* Reviewer at Neurips ML4H 2020, AISTATS 2021
+* Communications Chair at NeurIPS 2022
+* Publications Chair at AISTATS 2022
+* Workshop organizer at ICBINB 2022
+* Reviewer at NeurIPS ML4H 2020, AISTATS 2021
 * Discussant at UAI 2021
 * Co-Founder of EquiStats - an equity and diversity group for middle and senior members of the Department of Statistics, Oxford
