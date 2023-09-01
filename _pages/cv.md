@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Statistical Machine Learning, University of Oxford, 2023 (expected)
+* Ph.D in Statistical Machine Learning, University of Oxford, 2024 (expected)
 * M.Sc. in Statistics (Research), London School of Economics and Political Science, 2019
 * B.Sc. in Economics, Leibniz University Hannover, 2018
 * B.Sc. in Mathematics, Leibniz University Hannover, 2018
@@ -20,6 +20,7 @@ redirect_from:
 ## Work experience
 
 * Summer 2022: Research Intern at DeepMind, London
+  * Working under Borja Balle in the Robust and Verified AI group on differentially private diffusion models
 
 * Summer 2021: Research Intern at Microsoft Research Cambridge, Cambridge
   * Working under the supervision of Javier González in the Health Intelligence Team on invariant risk minimisation for detecting relationships between TCR cells and diseases in corporation with Adaptive Biotechnologies
@@ -53,6 +54,7 @@ redirect_from:
 
 ## Selected Prizes
 
+* Microsoft Research PhD Fellowship (USD 15,000)
 * Science Prize of Lower-Saxony (Euro 3,500): awarded to the 5 most exceptional students from Lower-Saxony (press coverage available [here](https://www.haz.de/Nachrichten/Der-Norden/Hannover-Niedersachsen-vergibt-Wissenschaftspreise-2018), [here](https://www.studieren-in-niedersachsen.de/news/wissenschaftspreis-niedersachsen-2018-verliehen.html), [here](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2018/MHH-Forscherin-erh%C3%A4lt-Wissen%C2%ADschaftspreis-Niedersachsen), and [here](https://idw-online.de/de/news706454))
 * Winton Prize (GBP 500): Best Master Thesis of LSE Stats programmes
 * RSS prize (GBP 500): awarded to the 2nd best performing student in one of the LSE Stats programmes
@@ -86,9 +88,9 @@ Teaching
   
 ## Service to the Community
 
-* Communications Chair at NeurIPS 2022
+* Communications Chair at NeurIPS 2022/NeurIPS 2023
 * Publications Chair at AISTATS 2022
-* Workshop organizer at ICBINB 2022
-* Reviewer at NeurIPS ML4H 2020, AISTATS 2021
-* Discussant at UAI 2021
+* Workshop organizer at ICBINB 2022, Advisor at at ICBINB 2023
+* Reviewer at NeurIPS and AISTATS (Best Reviewer Award at AISTATS2023)
+* Discussant at UAI
 * Co-Founder of EquiStats - an equity and diversity group for middle and senior members of the Department of Statistics, Oxford
