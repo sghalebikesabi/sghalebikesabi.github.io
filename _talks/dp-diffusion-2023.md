@@ -1,7 +1,7 @@
 ---
 title: "Differentially Private Diffusion Models Generat Useful Synhetic Images"
 collection: talks
-type: "Conference Poster Talk"
+type: "Invited Talk and Oral"
 permalink: /talks/dp-diffusion-2023
 venue: "Google TechTalks"
 date: 2023-05-30
