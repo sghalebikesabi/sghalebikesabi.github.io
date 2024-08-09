@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Sahra Ghalebikesabi"
 title_separator: "-"
 name: &name "Sahra Ghalebikesabi"
-description: &description "2nd year PhD student in Statistical Machine Learning"
+description: &description "Research Scientist at Google DeepMind"
 url: https://sghalebikesabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "sghalebikesabi/sghalebikesabi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter
+  username: "@SGhalebikesabi"
 facebook:
   username:
   app_id:
@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Sahra Ghalebikesabi"
   avatar: "Me_legere.jpeg"
-  bio: "PhD student in Statistical Machine Learning, a.k.a full-time debugger"
-  location: "Oxford, UK"
+  bio: "Research Scientist at Google DeepMind"
+  location: "London, UK"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.de/citations?user=fCmDlHYAAAAJ&hl=de&oi=ao"
-  email: "sahra [dot] ghalebikesabi [at] univ [dot] ox [dot] ac [dot] uk"
+  email: "sghal [at] google [dot] com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
