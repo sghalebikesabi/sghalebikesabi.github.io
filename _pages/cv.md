@@ -9,15 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-
-* Ph.D in Statistical Machine Learning, University of Oxford, 2024 (expected)
-* M.Sc. in Statistics (Research), London School of Economics and Political Science, 2019
-* B.Sc. in Economics, Leibniz University Hannover, 2018
-* B.Sc. in Mathematics, Leibniz University Hannover, 2018
-* A levels with best mark with only 16 years of age (find press releases [here](https://www.wp.de/staedte/wittgenstein/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html), [here](https://www.derwesten.de/staedte/nachrichten-aus-bad-berleburg-bad-laasphe-und-erndtebrueck/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html) and [here](https://www.siegener-zeitung.de/siegen/c-lokales/abi-mit-16-und-der-traumnote-10_a131614))
 
 ## Work experience
+* Since Sept 2023: Research Scientist at Google DeepMind, London
+  * Working on language model inference and user privacy
 
 * Summer 2022: Research Intern at DeepMind, London
   * Working under Borja Balle in the Robust and Verified AI group on differentially private diffusion models
@@ -51,6 +46,16 @@ redirect_from:
 * 2015 - 2018: Undergraduate Research Assistant at the Institute of Statistics of the Leibniz University, Hanover
   * Assisted in scientific research in topics of financial time series analysis by writing reports/literature reviews or analysing data
   * Assisted in academic teaching: in particular managing the shift of the lectures from the German into the English language
+
+
+## Education
+
+* Ph.D in Statistical Machine Learning, University of Oxford, 2024 
+* M.Sc. in Statistics (Research), London School of Economics and Political Science, 2019
+* B.Sc. in Economics, Leibniz University Hannover, 2018
+* B.Sc. in Mathematics, Leibniz University Hannover, 2018
+* A levels with best mark with only 16 years of age (find press releases [here](https://www.wp.de/staedte/wittgenstein/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html), [here](https://www.derwesten.de/staedte/nachrichten-aus-bad-berleburg-bad-laasphe-und-erndtebrueck/sahra-ghalebikesabi-mit-16-jahren-traumnote-1-0-id9550011.html) and [here](https://www.siegener-zeitung.de/siegen/c-lokales/abi-mit-16-und-der-traumnote-10_a131614))
+
 
 ## Selected Prizes
 
